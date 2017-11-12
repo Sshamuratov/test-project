@@ -1,25 +1,48 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+__________________________________
 
-  <groupId>com.cbt</groupId>
-  <artifactId>test-project</artifactId>
-  <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
 
-  <name>test-project</name>
-  <url>http://maven.apache.org</url>
+What is the angle between minute and hour hand when time is 6:30 am
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+how many times do you commit and push?
 
-  <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
-</project>
+what does a good qa bring to the table
+    may be 
+
+diff between junit testng, advanced jenkins questions, 
+hardest was Implicit wait, Singleton class, 
+scenarios, combine single tools, test ui, db, api test all in one test scenarios?
+  
+multithreading, sycnronization, streambufferer vs stream reader
+
+jenkins pipeline, dev ops, how to block finally
+
+running against multiple servers, parallel
+
+extend reports
+
+jdbc testing what are the scenarios, so we got the query from db then what. 
+
+how to handle conflict, 
+
+how to go back to earlier version on git
+challenges with api and db testing
+
+
+Q: What is the difference between an Error and an Exception and how do we handle them?
+
+Q: How do you perform large scale Data Base testing? Give me one example of a test case?
+
+What was you Trophy Bug?
+
+Request: Please provide us examples of some Trophy Bugs in the Finance and HR domain?
+
+Q: How did you run large scale tests? Like your regression where were you running it how was the Cross Browser testing happening tell me everything?
+
+write a function which will take int array as input find two numbers int array where those number's sum equal to 100?
+how do you prepare test data?
+tell me about your accomplishments throughout your career as sdet?
+
+if you have a test scenario which can't be automated in your sprint, what should you do?
+
+what is your 2 year plan?
+
