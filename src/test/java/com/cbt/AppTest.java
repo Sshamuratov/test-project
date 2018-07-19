@@ -11,6 +11,7 @@ public class AppTest
     extends TestCase
 {
 	/// adding a line code 
+	// second comment
     /**
      * Create the test case
      *
