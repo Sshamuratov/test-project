@@ -12,6 +12,7 @@ public class AppTest
 {
 	/// adding a line code 
 	// second comment
+	
     /**
      * Create the test case
      *
@@ -20,6 +21,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        System.out.println("print a line");
     }
 
     /**
